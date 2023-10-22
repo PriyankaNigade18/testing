@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-13T19:15:26 IST" name="Default suite" finished-at="2023-10-13T19:15:34 IST" duration-ms="7598">
+    <groups>
+    </groups>
+    <test started-at="2023-10-13T19:15:26 IST" name="Default test" finished-at="2023-10-13T19:15:34 IST" duration-ms="7598">
+      <class name="dataDrivenFramework.ScreenshotDemo">
+        <test-method signature="capture()[pri:0, instance:dataDrivenFramework.ScreenshotDemo@674658f7]" started-at="2023-10-13T19:15:26 IST" name="capture" finished-at="2023-10-13T19:15:34 IST" duration-ms="7535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- capture -->
+      </class> <!-- dataDrivenFramework.ScreenshotDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
